@@ -1,5 +1,5 @@
 # pylint: disable=too-many-public-methods
-""" The connector to HA-AP related API calls """
+""" The connector to HA-IP related API calls """
 
 from transip.client import Client, MODE_RO, MODE_RW
 
